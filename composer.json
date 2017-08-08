@@ -1,0 +1,23 @@
+{
+    "name": "riveng/var-dumper",
+    "description": "Library for exploring and dumping PHP variables",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gergo Ancsicsa",
+            "email": "gergo.ancsicsa@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Riven\\VarDumper\\": "src/"
+        },
+        "files": [
+            "src/Resources/functions/dump.php"
+        ]
+    },
+    "require": {
+        "php": ">=5.3.0",
+        "symfony/var-dumper": "2.6.*"
+    }
+}

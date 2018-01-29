@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Riven\\VarDumper\\": "src/"
+            "RivenG\\VarDumper\\": "src/"
         },
         "files": [
             "src/Resources/functions/dump.php"

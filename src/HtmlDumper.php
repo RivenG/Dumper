@@ -1,4 +1,5 @@
-<?php namespace Riven\VarDumper;
+<?php
+namespace RivenG\VarDumper;
 
 use Symfony\Component\VarDumper\Dumper\HtmlDumper as SymfonyHtmlDumper;
 

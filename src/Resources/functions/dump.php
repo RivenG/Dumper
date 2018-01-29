@@ -1,6 +1,6 @@
 <?php
 
-use Riven\VarDumper\Dumper;
+use RivenG\VarDumper\Dumper;
 
 
 if (!function_exists('d')) {
